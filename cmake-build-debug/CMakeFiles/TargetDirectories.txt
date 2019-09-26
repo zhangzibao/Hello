@@ -1,6 +1,0 @@
-G:/C++/Hello/cmake-build-debug/CMakeFiles/edit_cache.dir
-G:/C++/Hello/cmake-build-debug/CMakeFiles/PROJECT_NAME.dir
-G:/C++/Hello/cmake-build-debug/CMakeFiles/package.dir
-G:/C++/Hello/cmake-build-debug/CMakeFiles/package_source.dir
-G:/C++/Hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-G:/C++/Hello/cmake-build-debug/CMakeFiles/PROJECT_NAME_autogen.dir

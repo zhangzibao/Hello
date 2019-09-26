@@ -1,3 +1,0 @@
-"A:\Jetbrains\CLion 2019.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\fixedfann.dir/objects.a
-A:\editor\QT\Tools\mingw530_32\bin\ar.exe cr CMakeFiles\fixedfann.dir/objects.a @CMakeFiles\fixedfann.dir\objects1.rsp
-A:\editor\QT\Tools\mingw530_32\bin\g++.exe    -g  -shared -o libfixedfann.dll -Wl,--out-implib,libfixedfann.dll.a -Wl,--major-image-version,2,--minor-image-version,2 -Wl,--whole-archive CMakeFiles\fixedfann.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\fixedfann.dir\linklibs.rsp

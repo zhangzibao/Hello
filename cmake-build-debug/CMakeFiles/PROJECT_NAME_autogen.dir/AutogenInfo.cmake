@@ -1,0 +1,35 @@
+# Meta
+set(AM_MULTI_CONFIG "FALSE")
+set(AM_PARALLEL "4")
+set(AM_VERBOSITY "")
+# Directories
+set(AM_CMAKE_SOURCE_DIR "G:/C++/Hello")
+set(AM_CMAKE_BINARY_DIR "G:/C++/Hello/cmake-build-debug")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "G:/C++/Hello")
+set(AM_CMAKE_CURRENT_BINARY_DIR "G:/C++/Hello/cmake-build-debug")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "G:/C++/Hello/cmake-build-debug/PROJECT_NAME_autogen")
+set(AM_INCLUDE_DIR "G:/C++/Hello/cmake-build-debug/PROJECT_NAME_autogen/include")
+# Files
+set(AM_SOURCES "G:/C++/Hello/Sources/Mainwindow.cpp;G:/C++/Hello/Sources/config/Config.cpp;G:/C++/Hello/Sources/main.cpp;G:/C++/Hello/Sources/model/Food.cpp;G:/C++/Hello/Sources/model/GameWorld.cpp;G:/C++/Hello/Sources/model/Population.cpp;G:/C++/Hello/Sources/model/Snake.cpp;G:/C++/Hello/Sources/model/TrainingPanel.cpp;G:/C++/Hello/Sources/mysql_test.cpp;G:/C++/Hello/Sources/util/NeuralNetwork.cpp;G:/C++/Hello/Sources/util/Util.cpp")
+set(AM_HEADERS "G:/C++/Hello/Headers/Config.h;G:/C++/Hello/Headers/Food.h;G:/C++/Hello/Headers/GameWorld.h;G:/C++/Hello/Headers/Mainwindow.h;G:/C++/Hello/Headers/NeuralNetwork.h;G:/C++/Hello/Headers/Population.h;G:/C++/Hello/Headers/Snake.h;G:/C++/Hello/Headers/TrainingPanel.h;G:/C++/Hello/Headers/Util.h")
+set(AM_SETTINGS_FILE "G:/C++/Hello/cmake-build-debug/CMakeFiles/PROJECT_NAME_autogen.dir/AutogenOldSettings.txt")
+# Qt
+set(AM_QT_VERSION_MAJOR 5)
+set(AM_QT_MOC_EXECUTABLE "C:/Qt/Qt5.9.4/5.9.4/mingw53_32/bin/moc.exe")
+set(AM_QT_UIC_EXECUTABLE "C:/Qt/Qt5.9.4/5.9.4/mingw53_32/bin/uic.exe")
+# MOC settings
+set(AM_MOC_SKIP "G:/C++/Hello/cmake-build-debug/ui_mainwindow.h")
+set(AM_MOC_DEFINITIONS "QT_CORE_LIB;QT_GUI_LIB;QT_SQL_LIB;QT_WIDGETS_LIB")
+set(AM_MOC_INCLUDES "G:/C++/Hello/cmake-build-debug;G:/C++/Hello;G:/C++/Hello/Headers;G:/C++/Hello/include;G:/C++/Hello/Eigen;C:/Qt/Qt5.9.4/5.9.4/mingw53_32/include;C:/Qt/Qt5.9.4/5.9.4/mingw53_32/include/QtCore;C:/Qt/Qt5.9.4/5.9.4/mingw53_32/./mkspecs/win32-g++;C:/Qt/Qt5.9.4/5.9.4/mingw53_32/include/QtGui;C:/Qt/Qt5.9.4/5.9.4/mingw53_32/include/QtANGLE;C:/Qt/Qt5.9.4/5.9.4/mingw53_32/include/QtWidgets;C:/Qt/Qt5.9.4/5.9.4/mingw53_32/include/QtSql;C:/Qt/Qt5.9.4/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include;C:/Qt/Qt5.9.4/Tools/mingw530_32/lib/gcc/i686-w64-mingw32/5.3.0/include-fixed;C:/Qt/Qt5.9.4/Tools/mingw530_32/i686-w64-mingw32/include;C:/Qt/Qt5.9.4/Tools/mingw530_32/i686-w64-mingw32/include/c++;C:/Qt/Qt5.9.4/Tools/mingw530_32/i686-w64-mingw32/include/c++/i686-w64-mingw32;C:/Qt/Qt5.9.4/Tools/mingw530_32/i686-w64-mingw32/include/c++/backward")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "")
+set(AM_MOC_MACRO_NAMES "Q_OBJECT;Q_GADGET;Q_NAMESPACE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD "C:/Qt/Qt5.9.4/Tools/mingw530_32/bin/g++.exe;-dM;-E;-c;C:/Program Files/JetBrains/CLion 2019.1.3/bin/cmake/win/share/cmake-3.14/Modules/CMakeCXXCompilerABI.cpp")
+# UIC settings
+set(AM_UIC_SKIP "G:/C++/Hello/Forms/mainwindow.ui;G:/C++/Hello/cmake-build-debug/ui_mainwindow.h")
+set(AM_UIC_TARGET_OPTIONS "")
+set(AM_UIC_OPTIONS_FILES "")
+set(AM_UIC_OPTIONS_OPTIONS "")
+set(AM_UIC_SEARCH_PATHS "")

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <treeState key="responsibilities">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+    <treeState key="changes">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Hello" targetName="PROJECT_NAME" />
+      <config projectName="Hello" targetName="PROJECT_NAME_autogen" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8ba2b91-534c-4502-aca4-ade96c351523" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="Hello" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bestSnake.</find>
+      <find>snakes[i].</find>
+      <find>snakes.length</find>
+      <find>keyp</find>
+      <find>Data</find>
+      <find>getFoundation()-&gt;</find>
+      <find>[</find>
+      <find>(i,1)</find>
+      <find>think</find>
+      <find>cout</find>
+      <find>Food</find>
+      <find>foodList</find>
+      <find>reviv</find>
+      <find>crawl</find>
+      <find>lifeLeft</find>
+      <find>\[.\]</find>
+      <find>lifeleft</find>
+      <find>\</find>
+      <find>replay</find>
+      <find>clone</find>
+      <find>clear</find>
+      <find>new</find>
+      <find>food.li</find>
+      <find>revi</find>
+      <find>dea</find>
+      <find>move</find>
+      <find>revive</find>
+      <find>*</find>
+      <find>eat</find>
+      <find>look</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>setFoundation</replace>
+      <replace>GameWorld::getInstance(</replace>
+      <replace>getBody()-&gt;</replace>
+      <replace>GameWorld::getInstance()</replace>
+      <replace>and</replace>
+      <replace>body.</replace>
+      <replace>getBody().</replace>
+      <replace>node</replace>
+      <replace>body[0]</replace>
+      <replace>isHitFood</replace>
+      <replace>food.</replace>
+      <replace>food-&gt;</replace>
+      <replace>pos[1]</replace>
+      <replace>bool</replace>
+      <replace>bestSnake.crawl();</replace>
+      <replace>bestSnake-&gt;</replace>
+      <replace>snakes[i]-&gt;</replace>
+      <replace>snakes.size()</replace>
+      <replace>foundation-&gt;</replace>
+      <replace>foundation</replace>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="LGoRjuTf" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1QjsQpRNJw875LN9NWHFdYLKDAQ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="" module-name="Hello" is-module-sdk="true">
+        <option name="myCustomStartScript" value="" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Hello" />
+        <option name="myAddContentRoots" value="false" />
+        <option name="myAddSourceRoots" value="false" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myAttachToSubprocess" value="false" />
+    <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\C++\Hello\Sources\model" />
+      <recent name="G:\C++\Hello\Sources" />
+      <recent name="G:\C++\Hello\Sources\util" />
+      <recent name="G:\C++\Hello" />
+      <recent name="G:\C++\Hello\Sources\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\C++\Hello\FANN" />
+      <recent name="G:\C++\Hello" />
+      <recent name="G:\C++\Hello\Data" />
+      <recent name="G:\C++\Hello\Forms" />
+      <recent name="G:\C++\Hello\Fann" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.PROJECT_NAME">
+    <configuration name="PROJECT_NAME" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Hello" TARGET_NAME="PROJECT_NAME" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Hello" RUN_TARGET_NAME="PROJECT_NAME">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PROJECT_NAME_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Hello" RUN_TARGET_NAME="PROJECT_NAME" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.PROJECT_NAME" />
+      <item itemvalue="CMake Application.PROJECT_NAME_autogen" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8ba2b91-534c-4502-aca4-ade96c351523" name="Default Changelist" comment="" />
+      <created>1557969477746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557969477746</updated>
+      <workItem from="1557969480144" duration="492000" />
+      <workItem from="1557970517825" duration="840000" />
+      <workItem from="1557971591279" duration="759000" />
+      <workItem from="1557972450729" duration="2118000" />
+      <workItem from="1557974870541" duration="5245000" />
+      <workItem from="1557982347481" duration="64057000" />
+      <workItem from="1558235463616" duration="10648000" />
+      <workItem from="1558324262265" duration="8597000" />
+      <workItem from="1558351212123" duration="563000" />
+      <workItem from="1558352273656" duration="11826000" />
+      <workItem from="1558421991585" duration="24192000" />
+      <workItem from="1558459087511" duration="34098000" />
+      <workItem from="1558527616793" duration="22281000" />
+      <workItem from="1559186592883" duration="99000" />
+      <workItem from="1559186771666" duration="56000" />
+      <workItem from="1559219793782" duration="21000" />
+      <workItem from="1559226756853" duration="357000" />
+      <workItem from="1559228444140" duration="55000" />
+      <workItem from="1560504783729" duration="49000" />
+      <workItem from="1560504862958" duration="392000" />
+      <workItem from="1560505273035" duration="13799000" />
+      <workItem from="1560616276482" duration="19327000" />
+      <workItem from="1560841392462" duration="511000" />
+      <workItem from="1560841919512" duration="1862000" />
+      <workItem from="1560853057809" duration="3569000" />
+      <workItem from="1561570382173" duration="2000" />
+      <workItem from="1562897329922" duration="98000" />
+      <workItem from="1563005511717" duration="301000" />
+      <workItem from="1567338997072" duration="165000" />
+      <workItem from="1568293888899" duration="93000" />
+      <workItem from="1568294243687" duration="280000" />
+      <workItem from="1568294576079" duration="691000" />
+      <workItem from="1568295330015" duration="3000" />
+      <workItem from="1568575816415" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
